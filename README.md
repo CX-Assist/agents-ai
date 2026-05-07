@@ -43,6 +43,10 @@
 - [📁 File Overview](#-file-overview)
 - [📄 License](#-license)
 
+> 💡 **For day-to-day operations** (SSH into EC2, generate invite URL, restart server, view logs, etc.) see **[docs/QUICK_COMMANDS.md](docs/QUICK_COMMANDS.md)**.
+>
+> For SSO setup details, see **[docs/SSO_HANDOFF.md](docs/SSO_HANDOFF.md)** and **[docs/COGNITO_SSO.md](docs/COGNITO_SSO.md)**.
+
 ---
 
 ## 📦 What's Included
