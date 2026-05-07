@@ -34,6 +34,9 @@ server/src/**/*.js
 server/src/**/*.js.map
 server/src/**/*.d.ts
 server/src/**/*.d.ts.map
+# Exception: hand-written type augmentations in types/ folders
+!server/src/types/*.d.ts
+!server/src/**/types/*.d.ts
 tmp/
 feedback-export-*
 diagnostics/
